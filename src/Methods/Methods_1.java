@@ -25,5 +25,6 @@ public static void main(String[] args)
 	cal.sum(10, 20);
 	//int plus = cal.sum(20,20);
 	//System.out.println(plus);
+	System.out.println("chanbasha");
 }
 }
